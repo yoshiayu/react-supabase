@@ -1,0 +1,454 @@
+0 verbose cli /opt/homebrew/Cellar/node@20/20.19.6/bin/node /opt/homebrew/opt/node@20/bin/npm
+1 info using npm@10.8.2
+2 info using node@v20.19.6
+3 silly config load:file:/opt/homebrew/Cellar/node@20/20.19.6/lib/node_modules/npm/npmrc
+4 silly config load:file:/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/.npmrc
+5 silly config load:file:/Users/ayumuyoshinaga/.npmrc
+6 silly config load:file:/opt/homebrew/etc/npmrc
+7 verbose title npm install
+8 verbose argv "install" "--cache" "./.npm-cache" "--loglevel" "error"
+9 verbose logfile logs-max:10 dir:/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/.npm-cache/_logs/2026-02-11T03_10_10_495Z-
+10 verbose logfile /Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/.npm-cache/_logs/2026-02-11T03_10_10_495Z-debug-0.log
+11 silly packumentCache heap:4345298944 maxSize:1086324736 maxEntrySize:543162368
+12 silly logfile done cleaning log files
+13 http fetch GET https://registry.npmjs.org/npm attempt 1 failed with ENOTFOUND
+14 silly idealTree buildDeps
+15 verbose shrinkwrap failed to load node_modules/.package-lock.json out of date, updated: node_modules
+16 silly reify mark retired [
+16 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/baseline-browser-mapping'
+16 silly reify ]
+17 silly reify mark retired [
+17 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/jiti'
+17 silly reify ]
+18 silly reify mark retired [
+18 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/jsesc'
+18 silly reify ]
+19 silly reify mark retired [
+19 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/lightningcss-android-arm64'
+19 silly reify ]
+20 silly reify mark retired [
+20 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/lightningcss-darwin-x64'
+20 silly reify ]
+21 silly reify mark retired [
+21 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/lightningcss-freebsd-x64'
+21 silly reify ]
+22 silly reify mark retired [
+22 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/lightningcss-linux-arm-gnueabihf'
+22 silly reify ]
+23 silly reify mark retired [
+23 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/lightningcss-linux-arm64-gnu'
+23 silly reify ]
+24 silly reify mark retired [
+24 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/lightningcss-linux-arm64-musl'
+24 silly reify ]
+25 silly reify mark retired [
+25 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/lightningcss-linux-x64-gnu'
+25 silly reify ]
+26 silly reify mark retired [
+26 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/lightningcss-linux-x64-musl'
+26 silly reify ]
+27 silly reify mark retired [
+27 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/lightningcss-win32-arm64-msvc'
+27 silly reify ]
+28 silly reify mark retired [
+28 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/lightningcss-win32-x64-msvc'
+28 silly reify ]
+29 silly reify mark retired [
+29 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/rollup'
+29 silly reify ]
+30 silly reify mark retired [
+30 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@babel/code-frame'
+30 silly reify ]
+31 silly reify mark retired [
+31 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@babel/core'
+31 silly reify ]
+32 silly reify mark retired [
+32 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@babel/helper-compilation-targets'
+32 silly reify ]
+33 silly reify mark retired [
+33 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@babel/helper-globals'
+33 silly reify ]
+34 silly reify mark retired [
+34 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@babel/helper-module-imports'
+34 silly reify ]
+35 silly reify mark retired [
+35 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@babel/helper-module-transforms'
+35 silly reify ]
+36 silly reify mark retired [
+36 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@babel/helper-plugin-utils'
+36 silly reify ]
+37 silly reify mark retired [
+37 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@babel/helper-string-parser'
+37 silly reify ]
+38 silly reify mark retired [
+38 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@babel/helpers'
+38 silly reify ]
+39 silly reify mark retired [
+39 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@babel/parser'
+39 silly reify ]
+40 silly reify mark retired [
+40 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@babel/plugin-transform-react-jsx-source'
+40 silly reify ]
+41 silly reify mark retired [
+41 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@babel/plugin-transform-react-jsx-self'
+41 silly reify ]
+42 silly reify mark retired [
+42 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@babel/template'
+42 silly reify ]
+43 silly reify mark retired [
+43 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@babel/traverse'
+43 silly reify ]
+44 silly reify mark retired [
+44 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@babel/types'
+44 silly reify ]
+45 silly reify mark retired [
+45 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@esbuild/aix-ppc64'
+45 silly reify ]
+46 silly reify mark retired [
+46 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@esbuild/android-arm'
+46 silly reify ]
+47 silly reify mark retired [
+47 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@esbuild/android-arm64'
+47 silly reify ]
+48 silly reify mark retired [
+48 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@esbuild/android-x64'
+48 silly reify ]
+49 silly reify mark retired [
+49 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@esbuild/darwin-x64'
+49 silly reify ]
+50 silly reify mark retired [
+50 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@esbuild/freebsd-arm64'
+50 silly reify ]
+51 silly reify mark retired [
+51 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@esbuild/linux-arm64'
+51 silly reify ]
+52 silly reify mark retired [
+52 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@esbuild/freebsd-x64'
+52 silly reify ]
+53 silly reify mark retired [
+53 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@esbuild/linux-arm'
+53 silly reify ]
+54 silly reify mark retired [
+54 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@esbuild/linux-ia32'
+54 silly reify ]
+55 silly reify mark retired [
+55 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@esbuild/linux-loong64'
+55 silly reify ]
+56 silly reify mark retired [
+56 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@esbuild/linux-mips64el'
+56 silly reify ]
+57 silly reify mark retired [
+57 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@esbuild/linux-ppc64'
+57 silly reify ]
+58 silly reify mark retired [
+58 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@esbuild/linux-riscv64'
+58 silly reify ]
+59 silly reify mark retired [
+59 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@esbuild/linux-s390x'
+59 silly reify ]
+60 silly reify mark retired [
+60 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@esbuild/linux-x64'
+60 silly reify ]
+61 silly reify mark retired [
+61 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@esbuild/netbsd-x64'
+61 silly reify ]
+62 silly reify mark retired [
+62 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@esbuild/openbsd-x64'
+62 silly reify ]
+63 silly reify mark retired [
+63 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@esbuild/sunos-x64'
+63 silly reify ]
+64 silly reify mark retired [
+64 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@esbuild/win32-arm64'
+64 silly reify ]
+65 silly reify mark retired [
+65 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@esbuild/win32-ia32'
+65 silly reify ]
+66 silly reify mark retired [
+66 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@esbuild/win32-x64'
+66 silly reify ]
+67 silly reify mark retired [
+67 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@rollup/rollup-android-arm-eabi'
+67 silly reify ]
+68 silly reify mark retired [
+68 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@rollup/rollup-android-arm64'
+68 silly reify ]
+69 silly reify mark retired [
+69 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@rollup/rollup-darwin-arm64'
+69 silly reify ]
+70 silly reify mark retired [
+70 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@rollup/rollup-darwin-x64'
+70 silly reify ]
+71 silly reify mark retired [
+71 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@rollup/rollup-freebsd-arm64'
+71 silly reify ]
+72 silly reify mark retired [
+72 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@rollup/rollup-freebsd-x64'
+72 silly reify ]
+73 silly reify mark retired [
+73 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@rollup/rollup-linux-arm-gnueabihf'
+73 silly reify ]
+74 silly reify mark retired [
+74 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@rollup/rollup-linux-arm-musleabihf'
+74 silly reify ]
+75 silly reify mark retired [
+75 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@rollup/rollup-linux-arm64-gnu'
+75 silly reify ]
+76 silly reify mark retired [
+76 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@rollup/rollup-linux-arm64-musl'
+76 silly reify ]
+77 silly reify mark retired [
+77 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@rollup/rollup-linux-loong64-gnu'
+77 silly reify ]
+78 silly reify mark retired [
+78 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@rollup/rollup-linux-loong64-musl'
+78 silly reify ]
+79 silly reify mark retired [
+79 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@rollup/rollup-linux-ppc64-gnu'
+79 silly reify ]
+80 silly reify mark retired [
+80 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@rollup/rollup-linux-ppc64-musl'
+80 silly reify ]
+81 silly reify mark retired [
+81 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@rollup/rollup-linux-riscv64-musl'
+81 silly reify ]
+82 silly reify mark retired [
+82 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@rollup/rollup-linux-riscv64-gnu'
+82 silly reify ]
+83 silly reify mark retired [
+83 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@rollup/rollup-linux-s390x-gnu'
+83 silly reify ]
+84 silly reify mark retired [
+84 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@rollup/rollup-linux-x64-gnu'
+84 silly reify ]
+85 silly reify mark retired [
+85 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@rollup/rollup-linux-x64-musl'
+85 silly reify ]
+86 silly reify mark retired [
+86 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@rollup/rollup-openbsd-x64'
+86 silly reify ]
+87 silly reify mark retired [
+87 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@rollup/rollup-openharmony-arm64'
+87 silly reify ]
+88 silly reify mark retired [
+88 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@rollup/rollup-win32-arm64-msvc'
+88 silly reify ]
+89 silly reify mark retired [
+89 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@rollup/rollup-win32-ia32-msvc'
+89 silly reify ]
+90 silly reify mark retired [
+90 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@rollup/rollup-win32-x64-gnu'
+90 silly reify ]
+91 silly reify mark retired [
+91 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@rollup/rollup-win32-x64-msvc'
+91 silly reify ]
+92 silly reify mark retired [
+92 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@supabase/auth-js'
+92 silly reify ]
+93 silly reify mark retired [
+93 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@supabase/postgrest-js'
+93 silly reify ]
+94 silly reify mark retired [
+94 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@supabase/realtime-js'
+94 silly reify ]
+95 silly reify mark retired [
+95 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@supabase/storage-js'
+95 silly reify ]
+96 silly reify mark retired [
+96 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@supabase/supabase-js'
+96 silly reify ]
+97 silly reify mark retired [
+97 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@tailwindcss/oxide'
+97 silly reify ]
+98 silly reify mark retired [
+98 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@tailwindcss/oxide-android-arm64'
+98 silly reify ]
+99 silly reify mark retired [
+99 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@tailwindcss/oxide-darwin-arm64'
+99 silly reify ]
+100 silly reify mark retired [
+100 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@tailwindcss/oxide-darwin-x64'
+100 silly reify ]
+101 silly reify mark retired [
+101 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@tailwindcss/oxide-freebsd-x64'
+101 silly reify ]
+102 silly reify mark retired [
+102 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@tailwindcss/oxide-linux-arm-gnueabihf'
+102 silly reify ]
+103 silly reify mark retired [
+103 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@tailwindcss/oxide-linux-arm64-gnu'
+103 silly reify ]
+104 silly reify mark retired [
+104 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@tailwindcss/oxide-linux-arm64-musl'
+104 silly reify ]
+105 silly reify mark retired [
+105 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@tailwindcss/oxide-linux-x64-gnu'
+105 silly reify ]
+106 silly reify mark retired [
+106 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@tailwindcss/oxide-linux-x64-musl'
+106 silly reify ]
+107 silly reify mark retired [
+107 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@tailwindcss/oxide-wasm32-wasi'
+107 silly reify ]
+108 silly reify mark retired [
+108 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@tailwindcss/oxide-win32-arm64-msvc'
+108 silly reify ]
+109 silly reify mark retired [
+109 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@tailwindcss/oxide-win32-x64-msvc'
+109 silly reify ]
+110 silly reify mark retired [
+110 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@types/babel__core'
+110 silly reify ]
+111 silly reify mark retired [
+111 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@types/babel__generator'
+111 silly reify ]
+112 silly reify mark retired [
+112 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@types/babel__template'
+112 silly reify ]
+113 silly reify mark retired [
+113 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@types/babel__traverse'
+113 silly reify ]
+114 silly reify mark retired [
+114 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@types/phoenix'
+114 silly reify ]
+115 silly reify mark retired [
+115 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@types/ws'
+115 silly reify ]
+116 silly reify mark retired [
+116 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/esbuild',
+116 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/.bin/esbuild'
+116 silly reify ]
+117 silly reify mark retired [
+117 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/nanoid',
+117 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/.bin/nanoid'
+117 silly reify ]
+118 silly reify moves {
+118 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/baseline-browser-mapping': '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/.baseline-browser-mapping-bzpMAJmP',
+118 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/jiti': '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/.jiti-uD66ITdX',
+118 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/jsesc': '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/.jsesc-duGRHXOu',
+118 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/lightningcss-android-arm64': '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/.lightningcss-android-arm64-REmWaG9C',
+118 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/lightningcss-darwin-x64': '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/.lightningcss-darwin-x64-hNeOyVFq',
+118 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/lightningcss-freebsd-x64': '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/.lightningcss-freebsd-x64-92J6RcCf',
+118 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/lightningcss-linux-arm-gnueabihf': '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/.lightningcss-linux-arm-gnueabihf-mcygwAqW',
+118 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/lightningcss-linux-arm64-gnu': '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/.lightningcss-linux-arm64-gnu-tJ7rQwJw',
+118 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/lightningcss-linux-arm64-musl': '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/.lightningcss-linux-arm64-musl-kvX9uGM6',
+118 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/lightningcss-linux-x64-gnu': '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/.lightningcss-linux-x64-gnu-WHprVSg5',
+118 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/lightningcss-linux-x64-musl': '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/.lightningcss-linux-x64-musl-uIgkmoYE',
+118 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/lightningcss-win32-arm64-msvc': '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/.lightningcss-win32-arm64-msvc-lt1HxZ6A',
+118 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/lightningcss-win32-x64-msvc': '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/.lightningcss-win32-x64-msvc-k9crK41d',
+118 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/rollup': '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/.rollup-R4iqPTsW',
+118 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@babel/code-frame': '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@babel/.code-frame-PoFEfUK9',
+118 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@babel/core': '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@babel/.core-JDZnxIA7',
+118 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@babel/helper-compilation-targets': '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@babel/.helper-compilation-targets-ufy8Ysmv',
+118 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@babel/helper-globals': '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@babel/.helper-globals-EaEtS5pK',
+118 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@babel/helper-module-imports': '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@babel/.helper-module-imports-4hSRHHrv',
+118 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@babel/helper-module-transforms': '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@babel/.helper-module-transforms-XoCzla77',
+118 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@babel/helper-plugin-utils': '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@babel/.helper-plugin-utils-EJnAZCuk',
+118 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@babel/helper-string-parser': '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@babel/.helper-string-parser-v8aUaqzh',
+118 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@babel/helpers': '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@babel/.helpers-Ec7fbA8T',
+118 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@babel/parser': '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@babel/.parser-zUJtKx0s',
+118 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@babel/plugin-transform-react-jsx-source': '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@babel/.plugin-transform-react-jsx-source-nwvu9dEY',
+118 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@babel/plugin-transform-react-jsx-self': '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@babel/.plugin-transform-react-jsx-self-HQpwZP8Z',
+118 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@babel/template': '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@babel/.template-38tgCsUd',
+118 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@babel/traverse': '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@babel/.traverse-Rq8CPBOx',
+118 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@babel/types': '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@babel/.types-ZI1MUvau',
+118 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@esbuild/aix-ppc64': '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@esbuild/.aix-ppc64-NVEQK4RS',
+118 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@esbuild/android-arm': '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@esbuild/.android-arm-OqwTlhue',
+118 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@esbuild/android-arm64': '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@esbuild/.android-arm64-FswPFwHh',
+118 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@esbuild/android-x64': '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@esbuild/.android-x64-6DPGWkRz',
+118 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@esbuild/darwin-x64': '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@esbuild/.darwin-x64-MF9MPsMG',
+118 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@esbuild/freebsd-arm64': '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@esbuild/.freebsd-arm64-8NYHpJBQ',
+118 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@esbuild/linux-arm64': '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@esbuild/.linux-arm64-zT2BHYyJ',
+118 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@esbuild/freebsd-x64': '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@esbuild/.freebsd-x64-ddngA2wo',
+118 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@esbuild/linux-arm': '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@esbuild/.linux-arm-qduoUApG',
+118 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@esbuild/linux-ia32': '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@esbuild/.linux-ia32-su8C9sEn',
+118 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@esbuild/linux-loong64': '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@esbuild/.linux-loong64-0MILxrSQ',
+118 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@esbuild/linux-mips64el': '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@esbuild/.linux-mips64el-z0rxYMlF',
+118 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@esbuild/linux-ppc64': '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@esbuild/.linux-ppc64-BJypG1at',
+118 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@esbuild/linux-riscv64': '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@esbuild/.linux-riscv64-A2VNgUFd',
+118 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@esbuild/linux-s390x': '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@esbuild/.linux-s390x-X8bzTiun',
+118 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@esbuild/linux-x64': '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@esbuild/.linux-x64-XV1api6q',
+118 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@esbuild/netbsd-x64': '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@esbuild/.netbsd-x64-DZWbFAac',
+118 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@esbuild/openbsd-x64': '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@esbuild/.openbsd-x64-tNNOn7DX',
+118 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@esbuild/sunos-x64': '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@esbuild/.sunos-x64-XwgOIXPy',
+118 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@esbuild/win32-arm64': '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@esbuild/.win32-arm64-dU0VSHs1',
+118 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@esbuild/win32-ia32': '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@esbuild/.win32-ia32-ftSGeyru',
+118 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@esbuild/win32-x64': '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@esbuild/.win32-x64-Cw1E6iTy',
+118 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@rollup/rollup-android-arm-eabi': '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@rollup/.rollup-android-arm-eabi-QW45rEAu',
+118 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@rollup/rollup-android-arm64': '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@rollup/.rollup-android-arm64-yH3UUM3z',
+118 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@rollup/rollup-darwin-arm64': '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@rollup/.rollup-darwin-arm64-RF3Yx0Qp',
+118 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@rollup/rollup-darwin-x64': '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@rollup/.rollup-darwin-x64-ICPqnZEg',
+118 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@rollup/rollup-freebsd-arm64': '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@rollup/.rollup-freebsd-arm64-unDQTmtm',
+118 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@rollup/rollup-freebsd-x64': '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@rollup/.rollup-freebsd-x64-yGv7cz8l',
+118 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@rollup/rollup-linux-arm-gnueabihf': '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@rollup/.rollup-linux-arm-gnueabihf-HwgnWn04',
+118 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@rollup/rollup-linux-arm-musleabihf': '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@rollup/.rollup-linux-arm-musleabihf-QH7tdc49',
+118 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@rollup/rollup-linux-arm64-gnu': '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@rollup/.rollup-linux-arm64-gnu-7xAL66kZ',
+118 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@rollup/rollup-linux-arm64-musl': '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@rollup/.rollup-linux-arm64-musl-avaqZcJF',
+118 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@rollup/rollup-linux-loong64-gnu': '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@rollup/.rollup-linux-loong64-gnu-nsCwSuyi',
+118 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@rollup/rollup-linux-loong64-musl': '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@rollup/.rollup-linux-loong64-musl-c6n5OQLH',
+118 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@rollup/rollup-linux-ppc64-gnu': '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@rollup/.rollup-linux-ppc64-gnu-LAhVxuvQ',
+118 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@rollup/rollup-linux-ppc64-musl': '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@rollup/.rollup-linux-ppc64-musl-olLdIFDo',
+118 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@rollup/rollup-linux-riscv64-musl': '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@rollup/.rollup-linux-riscv64-musl-zPezZ8LA',
+118 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@rollup/rollup-linux-riscv64-gnu': '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@rollup/.rollup-linux-riscv64-gnu-pQYtOCmd',
+118 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@rollup/rollup-linux-s390x-gnu': '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@rollup/.rollup-linux-s390x-gnu-72yrRi51',
+118 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@rollup/rollup-linux-x64-gnu': '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@rollup/.rollup-linux-x64-gnu-pb30SCsS',
+118 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@rollup/rollup-linux-x64-musl': '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@rollup/.rollup-linux-x64-musl-Yq1eHlBB',
+118 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@rollup/rollup-openbsd-x64': '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@rollup/.rollup-openbsd-x64-fRNzz0Rz',
+118 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@rollup/rollup-openharmony-arm64': '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@rollup/.rollup-openharmony-arm64-ti2GCohM',
+118 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@rollup/rollup-win32-arm64-msvc': '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@rollup/.rollup-win32-arm64-msvc-4ps5heua',
+118 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@rollup/rollup-win32-ia32-msvc': '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@rollup/.rollup-win32-ia32-msvc-4WQpucH6',
+118 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@rollup/rollup-win32-x64-gnu': '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@rollup/.rollup-win32-x64-gnu-cWN4fQFS',
+118 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@rollup/rollup-win32-x64-msvc': '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@rollup/.rollup-win32-x64-msvc-PovmnfTw',
+118 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@supabase/auth-js': '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@supabase/.auth-js-CQGXGG4k',
+118 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@supabase/postgrest-js': '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@supabase/.postgrest-js-iRr8efKv',
+118 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@supabase/realtime-js': '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@supabase/.realtime-js-ZsemEK1z',
+118 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@supabase/storage-js': '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@supabase/.storage-js-F6Saddei',
+118 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@supabase/supabase-js': '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@supabase/.supabase-js-b137Aj8s',
+118 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@tailwindcss/oxide': '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@tailwindcss/.oxide-PNRp6rJe',
+118 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@tailwindcss/oxide-android-arm64': '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@tailwindcss/.oxide-android-arm64-qyMRTn0T',
+118 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@tailwindcss/oxide-darwin-arm64': '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@tailwindcss/.oxide-darwin-arm64-DRLajixr',
+118 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@tailwindcss/oxide-darwin-x64': '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@tailwindcss/.oxide-darwin-x64-4rfYEfdT',
+118 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@tailwindcss/oxide-freebsd-x64': '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@tailwindcss/.oxide-freebsd-x64-v08BDjDd',
+118 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@tailwindcss/oxide-linux-arm-gnueabihf': '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@tailwindcss/.oxide-linux-arm-gnueabihf-MXpqMMq5',
+118 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@tailwindcss/oxide-linux-arm64-gnu': '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@tailwindcss/.oxide-linux-arm64-gnu-wpH8t6HF',
+118 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@tailwindcss/oxide-linux-arm64-musl': '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@tailwindcss/.oxide-linux-arm64-musl-IP7Qz05B',
+118 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@tailwindcss/oxide-linux-x64-gnu': '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@tailwindcss/.oxide-linux-x64-gnu-Rwx3NsoT',
+118 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@tailwindcss/oxide-linux-x64-musl': '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@tailwindcss/.oxide-linux-x64-musl-ajWbv8j1',
+118 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@tailwindcss/oxide-wasm32-wasi': '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@tailwindcss/.oxide-wasm32-wasi-ltB4NgWP',
+118 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@tailwindcss/oxide-win32-arm64-msvc': '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@tailwindcss/.oxide-win32-arm64-msvc-XmgIoOzt',
+118 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@tailwindcss/oxide-win32-x64-msvc': '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@tailwindcss/.oxide-win32-x64-msvc-662Qt7OD',
+118 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@types/babel__core': '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@types/.babel__core-955zaKCj',
+118 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@types/babel__generator': '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@types/.babel__generator-BxZZBUpj',
+118 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@types/babel__template': '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@types/.babel__template-1N9xZTvD',
+118 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@types/babel__traverse': '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@types/.babel__traverse-ftLGqmyo',
+118 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@types/phoenix': '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@types/.phoenix-FbRzioyH',
+118 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@types/ws': '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/@types/.ws-AxeASKsa',
+118 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/esbuild': '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/.esbuild-zmKlOGwR',
+118 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/.bin/esbuild': '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/.bin/.esbuild-NDvFWR5s',
+118 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/nanoid': '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/.nanoid-yA30qB0v',
+118 silly reify   '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/.bin/nanoid': '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/.bin/.nanoid-G2ZRgrWL'
+118 silly reify }
+119 verbose stack Error: ENOTEMPTY: directory not empty, rename '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/baseline-browser-mapping' -> '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/.baseline-browser-mapping-bzpMAJmP'
+119 verbose stack     at async Object.rename (node:internal/fs/promises:782:10)
+119 verbose stack     at async moveFile (/opt/homebrew/Cellar/node@20/20.19.6/lib/node_modules/npm/node_modules/@npmcli/fs/lib/move-file.js:30:5)
+119 verbose stack     at async Promise.allSettled (index 0)
+119 verbose stack     at async [reifyPackages] (/opt/homebrew/Cellar/node@20/20.19.6/lib/node_modules/npm/node_modules/@npmcli/arborist/lib/arborist/reify.js:325:11)
+119 verbose stack     at async Arborist.reify (/opt/homebrew/Cellar/node@20/20.19.6/lib/node_modules/npm/node_modules/@npmcli/arborist/lib/arborist/reify.js:142:5)
+119 verbose stack     at async Install.exec (/opt/homebrew/Cellar/node@20/20.19.6/lib/node_modules/npm/lib/commands/install.js:150:5)
+119 verbose stack     at async Npm.exec (/opt/homebrew/Cellar/node@20/20.19.6/lib/node_modules/npm/lib/npm.js:207:9)
+119 verbose stack     at async module.exports (/opt/homebrew/Cellar/node@20/20.19.6/lib/node_modules/npm/lib/cli/entry.js:74:5)
+120 error code ENOTEMPTY
+121 error syscall rename
+122 error path /Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/baseline-browser-mapping
+123 error dest /Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/.baseline-browser-mapping-bzpMAJmP
+124 error errno -66
+125 error ENOTEMPTY: directory not empty, rename '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/baseline-browser-mapping' -> '/Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/node_modules/.baseline-browser-mapping-bzpMAJmP'
+126 silly unfinished npm timer reify 1770779410830
+127 silly unfinished npm timer reify:retireShallow 1770779410936
+128 verbose cwd /Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase
+129 verbose os Darwin 25.2.0
+130 verbose node v20.19.6
+131 verbose npm  v10.8.2
+132 verbose exit -66
+133 verbose code -66
+134 error A complete log of this run can be found in: /Users/ayumuyoshinaga/Desktop/supabaseテキスト/react_supabase/.npm-cache/_logs/2026-02-11T03_10_10_495Z-debug-0.log

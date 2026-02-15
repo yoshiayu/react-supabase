@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1366" height="768" viewBox="0 0 1366 768" role="img" aria-labelledby="title desc">
+  <title id="title">TaskBoard Login Screenshot</title>
+  <desc id="desc">Sample login page screenshot for educational README.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#020617" />
+      <stop offset="100%" stop-color="#111827" />
+    </linearGradient>
+    <linearGradient id="btn" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#4f46e5" />
+      <stop offset="100%" stop-color="#4338ca" />
+    </linearGradient>
+  </defs>
+
+  <rect width="1366" height="768" fill="url(#bg)" />
+
+  <rect x="463" y="148" width="440" height="472" rx="18" fill="#0f172a" stroke="#1f2937" stroke-width="2" />
+
+  <text x="503" y="205" fill="#f8fafc" font-size="34" font-family="Arial, Helvetica, sans-serif" font-weight="700">TaskBoard</text>
+  <text x="503" y="237" fill="#94a3b8" font-size="18" font-family="Arial, Helvetica, sans-serif">Auth learning screen</text>
+
+  <rect x="503" y="275" width="160" height="42" rx="10" fill="#1e293b" stroke="#334155" />
+  <rect x="673" y="275" width="160" height="42" rx="10" fill="#0f172a" stroke="#334155" />
+  <text x="553" y="302" fill="#e2e8f0" font-size="16" font-family="Arial, Helvetica, sans-serif" font-weight="700">Login</text>
+  <text x="716" y="302" fill="#94a3b8" font-size="16" font-family="Arial, Helvetica, sans-serif">Sign up</text>
+
+  <text x="503" y="355" fill="#cbd5e1" font-size="16" font-family="Arial, Helvetica, sans-serif">Email</text>
+  <rect x="503" y="368" width="360" height="54" rx="10" fill="#020617" stroke="#1f2937" />
+  <text x="523" y="402" fill="#64748b" font-size="15" font-family="Arial, Helvetica, sans-serif">you@example.com</text>
+
+  <text x="503" y="468" fill="#cbd5e1" font-size="16" font-family="Arial, Helvetica, sans-serif">Password</text>
+  <rect x="503" y="481" width="360" height="54" rx="10" fill="#020617" stroke="#1f2937" />
+  <text x="523" y="514" fill="#64748b" font-size="18" font-family="Arial, Helvetica, sans-serif">********</text>
+
+  <rect x="503" y="558" width="360" height="54" rx="10" fill="url(#btn)" />
+  <text x="657" y="592" fill="#ffffff" font-size="18" font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-weight="700">Login</text>
+
+  <rect x="40" y="36" width="264" height="54" rx="10" fill="#0f172a" stroke="#334155" />
+  <text x="58" y="70" fill="#e2e8f0" font-size="18" font-family="Arial, Helvetica, sans-serif">Screenshot: Login Page</text>
+</svg>
